@@ -12,14 +12,16 @@
 
     <body>
         <jsp:include page="view/components/menuexterno.jsp"/>
-        <img src="assets/img/fondo.png" class="img-fluid" width="100%" alt="Responsive image">
+        <img src="assets/img/Fondo.png" class="img-fluid" width="100%" alt="Responsive image">
         <div class="container">
      
   <div class="row">
+     padding: 400px;
+    
       <div class="col-8">
-          <h1>Bienvenido a Joyeria Salvador</h1>
+          <h1>Bienvenido a Joyeria Salvaror</h1>
           <p>
-      Encuentra todo lo que buscas en un solo lugar. Bienvendio a Joyeria Salvador, lideres en Joyas. Podrás encontrar una amplia variedad de Joyas importadas 100% oro.
+      Encuentra todo lo que buscas en un solo lugar. Bienvendio a Joyeria Salvaror, lideres en Joyas. Podrás encontrar una amplia variedad de Joyas importadas 100% oro.
       </p>
       </div>
     <div class="col-4" id="formlogin">

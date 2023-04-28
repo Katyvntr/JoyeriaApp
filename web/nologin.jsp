@@ -12,7 +12,7 @@
 
     <body>
         <jsp:include page="view/components/menuexterno.jsp"/>  
-        <img src="assets/img/banner2.jpg" class="img-fluid" width="100%" alt="Responsive image">
+        <img src="assets/img/Fondo.png" class="img-fluid" width="100%" alt="Responsive image">
         <div class="container">
      
   <div class="row">
